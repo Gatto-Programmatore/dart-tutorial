@@ -10,4 +10,6 @@ Link del tutorial su youtube (suddiviso in capitoli): https://www.youtube.com/pl
 
 
 Gli appunti si trovano dentro la cartella appunti_tutorial.
+I numeri non seguono quelli della playlist.
+
 
