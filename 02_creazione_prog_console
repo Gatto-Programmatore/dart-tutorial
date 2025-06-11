@@ -17,7 +17,7 @@ In questo esempio lo creiamo da linea di comando quindi eseguiamo "dart create -
 Es "dart create -t console dart_tutorial_template_console".
 
 Ci spostiamo nella cartella appena creare con "cd dart_tutorial_template_console".
-Eseguire "dart run" ???
+Eseguire "dart run" (opzionale).
 
 Adesso possiamo aprire il progetto con vscode o altro editor di codice.
 
