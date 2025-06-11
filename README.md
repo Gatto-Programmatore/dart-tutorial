@@ -6,6 +6,8 @@ E' stato creato per chi proviene da java/javascript quindi non è un corso base 
 
 Link del tutorial su youtube (video intero): https://www.youtube.com/watch?v=WxuViERlkyE
 
-Link del tutorial su youtube (suddiviso in capitoli): https://www.youtube.com/playlist?list=PLP5MAKLy8lP9VP6KL4Q9ClYCuGhet59Od)
+Link del tutorial su youtube (suddiviso in capitoli): https://www.youtube.com/playlist?list=PLP5MAKLy8lP9VP6KL4Q9ClYCuGhet59Od
 
+
+Gli appunti si trovano dentro la cartella appunti_tutorial.
 
