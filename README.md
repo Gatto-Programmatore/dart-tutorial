@@ -13,3 +13,6 @@ Gli appunti si trovano dentro la cartella appunti_tutorial.
 I numeri non seguono quelli della playlist.
 
 
+Scrivo solo le differenze con java.
+
+
