@@ -58,6 +58,9 @@ const data = DateTime.now(); // errore
 const eta; //errore
 
 
+static ha lo stesso significato di java, cioè è una variabile di classe e non di istanza
+
+
 Set: collezione di dati. Ignora i duplicati e l'ordine cambia quindi non dobbiamo fare affidamento 
 sull'indice degli elementi
 Set<int> numeri = {1, 2, 2, 3};
